@@ -27,7 +27,7 @@
         android:text="null" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/buttonVoltar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/labelCalculo"
